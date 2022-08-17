@@ -1,9 +1,17 @@
 # 방미공 강화학습 Jupyter Notebook
 
-## 1. Model Free Prediction
+## Model Free Prediction
 
-## 2. Model Free Control
+MC 와 TD 기법으로 Value 함수를 추정
 
-## 3. Model Free DQN
+## Model Free Control
 
-## 4. Model Free Deep Actor Critic
+MC,SARSA,Q-Learning 기법으로 정책 학습
+
+## Model Free DQN
+
+DQN 방식으로 정책 학습
+
+## Model Free Deep Actor Critic
+
+Actor Critic 방식으로 정책 
