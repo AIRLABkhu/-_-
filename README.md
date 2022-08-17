@@ -1,4 +1,4 @@
-# 방미공_강화학습 Jupyter Notebook
+# 방미공 강화학습 Jupyter Notebook
 
 ## 1. Model Free Prediction
 
